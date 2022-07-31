@@ -37,4 +37,4 @@
 
 
 ### Link
-[Password Generator](https://ahuang23.github.io/C03_Password_Generator/)
+[Quiz](https://ahuang23.github.io/C04_Quiz/)
