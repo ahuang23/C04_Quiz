@@ -183,7 +183,7 @@ submitBtn.addEventListener("click", function() {
         entInitials.value = "";
 
         alert("Score has been submitted")
-        window.location.replace("./highScores.html");
+        window.location.replace("./highscores.html");
         
 
     }
